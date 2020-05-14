@@ -1,0 +1,10 @@
+.gamecard {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.gamecard > .card-body {
+    font-size: 300%;
+}
